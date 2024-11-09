@@ -157,9 +157,9 @@ pip install nexrank
 ## Citation
 
 ```bibtex
-@software{lexirank2024,
-  title={LexiRank: Intelligent Legal Document Reranking System},
-  author={Your Name},
+@software{nexrank2024,
+  title={NexRank: Intelligent Legal Document Reranking System},
+  author={Daniel Boadzie},
   year={2024},
   description={Advanced reranking system for constitutional documents}
 }
@@ -168,5 +168,3 @@ pip install nexrank
 ## License
 
 MIT License - Free for academic and commercial use
-
-Would you like me to expand on any section or add additional details to specific components?
